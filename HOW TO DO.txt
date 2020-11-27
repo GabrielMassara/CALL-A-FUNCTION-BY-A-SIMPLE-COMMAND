@@ -1,0 +1,13 @@
+//PUT YOUR COMMANDS IN A VOID
+
+void yourcommandhere(){
+	digitalWrite(led, HIGH);  //example
+}
+
+//SO, IF YOU WANT TO TURN ON/OFF A LED FOR EXAMPLE YOU DON'T 
+NEED TO PUT "digital..." IT'S JUST WRITE THE NAME OF YOUR LOOP
+
+EX: yourcommandhere();
+
+*WHEN YOU PUT THIS, ALL OF YOUR FUNCTIONS INSIDE OF THE LOOP ARE GOING TO
+RUN.
